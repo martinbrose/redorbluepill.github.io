@@ -244,7 +244,7 @@
                         },
                         l.a.createElement("img", {
                           className: "profile-pic",
-                          src: "images/profilepic.jp2",
+                          src: "images/profilepic.jpg",
                           alt: ""
                         })
                       ),
